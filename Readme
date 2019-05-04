@@ -1,0 +1,7 @@
+# Newsletter-Signup
+
+A newsletter API developed using node.js
+
+A simple signup website outline is developed using Bootstrap.
+Client information (email address, first name, last name) is stored to the MailChimp server on the backend.
+The API is deployed using heroku. 
