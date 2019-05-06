@@ -36,7 +36,7 @@ app.post("/", function(req, res) {
   var jsonData = JSON.stringify(data);
 
   var options = {
-    url: "https://us20.api.mailchimp.com/3.0/lists/(Replace with audience ID",
+    url: "https://us20.api.mailchimp.com/3.0/lists/(Replace with audience ID)",
     method: "POST",
     headers: {
       'Authorization': "(username) (Replace with API KEY)"
